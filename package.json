@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "E-commerce application rest API using PostgreSQL, Express, and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "chai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kairos4213/e-commerce-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kairos4213/e-commerce-app/issues"
+  },
+  "homepage": "https://github.com/kairos4213/e-commerce-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
